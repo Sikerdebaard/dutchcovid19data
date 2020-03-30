@@ -1,0 +1,46 @@
+{
+    "data": [
+        [
+            "0 - 9",
+            0
+        ],
+        [
+            "10 - 19",
+            0
+        ],
+        [
+            "20 - 29",
+            0
+        ],
+        [
+            "30 - 39",
+            0
+        ],
+        [
+            "40 - 49",
+            0
+        ],
+        [
+            "50 - 59",
+            4
+        ],
+        [
+            "60 - 69",
+            33
+        ],
+        [
+            "70 - 79",
+            50
+        ],
+        [
+            "80 - 89",
+            13
+        ],
+        [
+            ">90",
+            0
+        ]
+    ],
+    "license": "\n    vermeld dat het artikel van www.stichting-nice.nl komt,\n    vermeld dat het artikel copyright 1996-2020 van Stichting NICE is,\n    vermeld een duidelijke en werkende link naar de juiste pagina op de website van Stichting NICE.\n",
+    "source": "https://www.stichting-nice.nl/covid-19/public/age-distribution-died/"
+}

@@ -1,0 +1,285 @@
+{
+    "data": [
+        {
+            "date": "2020-02-21",
+            "diedCumulative": 0,
+            "icCount": 0,
+            "icCumulative": 0,
+            "intakeCount": 0,
+            "intakeCumulative": 1,
+            "newIntake": 1
+        },
+        {
+            "date": "2020-02-25",
+            "diedCumulative": 0,
+            "icCount": 0,
+            "icCumulative": 0,
+            "intakeCount": 0,
+            "intakeCumulative": 2,
+            "newIntake": 1
+        },
+        {
+            "date": "2020-03-01",
+            "diedCumulative": 0,
+            "icCount": 0,
+            "icCumulative": 0,
+            "intakeCount": 0,
+            "intakeCumulative": 3,
+            "newIntake": 1
+        },
+        {
+            "date": "2020-03-03",
+            "diedCumulative": 0,
+            "icCount": 0,
+            "icCumulative": 0,
+            "intakeCount": 0,
+            "intakeCumulative": 4,
+            "newIntake": 1
+        },
+        {
+            "date": "2020-03-04",
+            "diedCumulative": 0,
+            "icCount": 0,
+            "icCumulative": 0,
+            "intakeCount": 0,
+            "intakeCumulative": 7,
+            "newIntake": 3
+        },
+        {
+            "date": "2020-03-05",
+            "diedCumulative": 0,
+            "icCount": 0,
+            "icCumulative": 0,
+            "intakeCount": 0,
+            "intakeCumulative": 8,
+            "newIntake": 1
+        },
+        {
+            "date": "2020-03-06",
+            "diedCumulative": 0,
+            "icCount": 0,
+            "icCumulative": 0,
+            "intakeCount": 0,
+            "intakeCumulative": 10,
+            "newIntake": 2
+        },
+        {
+            "date": "2020-03-07",
+            "diedCumulative": 0,
+            "icCount": 0,
+            "icCumulative": 0,
+            "intakeCount": 0,
+            "intakeCumulative": 13,
+            "newIntake": 3
+        },
+        {
+            "date": "2020-03-08",
+            "diedCumulative": 0,
+            "icCount": 0,
+            "icCumulative": 0,
+            "intakeCount": 0,
+            "intakeCumulative": 18,
+            "newIntake": 5
+        },
+        {
+            "date": "2020-03-09",
+            "diedCumulative": 0,
+            "icCount": 0,
+            "icCumulative": 0,
+            "intakeCount": 0,
+            "intakeCumulative": 23,
+            "newIntake": 5
+        },
+        {
+            "date": "2020-03-10",
+            "diedCumulative": 0,
+            "icCount": 0,
+            "icCumulative": 0,
+            "intakeCount": 0,
+            "intakeCumulative": 31,
+            "newIntake": 8
+        },
+        {
+            "date": "2020-03-11",
+            "diedCumulative": 0,
+            "icCount": 0,
+            "icCumulative": 0,
+            "intakeCount": 0,
+            "intakeCumulative": 37,
+            "newIntake": 6
+        },
+        {
+            "date": "2020-03-12",
+            "diedCumulative": 0,
+            "icCount": 0,
+            "icCumulative": 0,
+            "intakeCount": 0,
+            "intakeCumulative": 59,
+            "newIntake": 22
+        },
+        {
+            "date": "2020-03-13",
+            "diedCumulative": 0,
+            "icCount": 0,
+            "icCumulative": 0,
+            "intakeCount": 0,
+            "intakeCumulative": 73,
+            "newIntake": 14
+        },
+        {
+            "date": "2020-03-14",
+            "diedCumulative": 0,
+            "icCount": 0,
+            "icCumulative": 0,
+            "intakeCount": 0,
+            "intakeCumulative": 90,
+            "newIntake": 17
+        },
+        {
+            "date": "2020-03-15",
+            "diedCumulative": 0,
+            "icCount": 0,
+            "icCumulative": 0,
+            "intakeCount": 0,
+            "intakeCumulative": 117,
+            "newIntake": 27
+        },
+        {
+            "date": "2020-03-16",
+            "diedCumulative": 0,
+            "icCount": 0,
+            "icCumulative": 0,
+            "intakeCount": 0,
+            "intakeCumulative": 150,
+            "newIntake": 33
+        },
+        {
+            "date": "2020-03-17",
+            "diedCumulative": 0,
+            "icCount": 0,
+            "icCumulative": 0,
+            "intakeCount": 0,
+            "intakeCumulative": 185,
+            "newIntake": 35
+        },
+        {
+            "date": "2020-03-18",
+            "diedCumulative": 0,
+            "icCount": 0,
+            "icCumulative": 0,
+            "intakeCount": 0,
+            "intakeCumulative": 236,
+            "newIntake": 51
+        },
+        {
+            "date": "2020-03-19",
+            "diedCumulative": 0,
+            "icCount": 0,
+            "icCumulative": 0,
+            "intakeCount": 0,
+            "intakeCumulative": 294,
+            "newIntake": 58
+        },
+        {
+            "date": "2020-03-20",
+            "diedCumulative": 0,
+            "icCount": 0,
+            "icCumulative": 0,
+            "intakeCount": 0,
+            "intakeCumulative": 380,
+            "newIntake": 86
+        },
+        {
+            "date": "2020-03-21",
+            "diedCumulative": 0,
+            "icCount": 0,
+            "icCumulative": 0,
+            "intakeCount": 0,
+            "intakeCumulative": 449,
+            "newIntake": 69
+        },
+        {
+            "date": "2020-03-22",
+            "diedCumulative": 0,
+            "icCount": 0,
+            "icCumulative": 0,
+            "intakeCount": 0,
+            "intakeCumulative": 519,
+            "newIntake": 70
+        },
+        {
+            "date": "2020-03-23",
+            "diedCumulative": 0,
+            "icCount": 0,
+            "icCumulative": 0,
+            "intakeCount": 0,
+            "intakeCumulative": 621,
+            "newIntake": 102
+        },
+        {
+            "date": "2020-03-24",
+            "diedCumulative": 0,
+            "icCount": 0,
+            "icCumulative": 0,
+            "intakeCount": 0,
+            "intakeCumulative": 728,
+            "newIntake": 107
+        },
+        {
+            "date": "2020-03-25",
+            "diedCumulative": 0,
+            "icCount": 0,
+            "icCumulative": 0,
+            "intakeCount": 0,
+            "intakeCumulative": 843,
+            "newIntake": 115
+        },
+        {
+            "date": "2020-03-26",
+            "diedCumulative": 0,
+            "icCount": 0,
+            "icCumulative": 0,
+            "intakeCount": 0,
+            "intakeCumulative": 942,
+            "newIntake": 99
+        },
+        {
+            "date": "2020-03-27",
+            "diedCumulative": 0,
+            "icCount": 0,
+            "icCumulative": 0,
+            "intakeCount": 0,
+            "intakeCumulative": 1056,
+            "newIntake": 114
+        },
+        {
+            "date": "2020-03-28",
+            "diedCumulative": 0,
+            "icCount": 0,
+            "icCumulative": 0,
+            "intakeCount": 0,
+            "intakeCumulative": 1153,
+            "newIntake": 97
+        },
+        {
+            "date": "2020-03-29",
+            "diedCumulative": 0,
+            "icCount": 0,
+            "icCumulative": 0,
+            "intakeCount": 0,
+            "intakeCumulative": 1236,
+            "newIntake": 83
+        },
+        {
+            "date": "2020-03-30",
+            "diedCumulative": 0,
+            "icCount": 0,
+            "icCumulative": 0,
+            "intakeCount": 0,
+            "intakeCumulative": 1298,
+            "newIntake": 62
+        }
+    ],
+    "license": "\n    vermeld dat het artikel van www.stichting-nice.nl komt,\n    vermeld dat het artikel copyright 1996-2020 van Stichting NICE is,\n    vermeld een duidelijke en werkende link naar de juiste pagina op de website van Stichting NICE.\n",
+    "source": "https://www.stichting-nice.nl/covid-19/public/intake-cumulative/"
+}
