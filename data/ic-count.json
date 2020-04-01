@@ -320,7 +320,16 @@
             "diedCumulative": 0,
             "icCount": 71,
             "icCumulative": 0,
-            "intakeCount": 1143,
+            "intakeCount": 1145,
+            "intakeCumulative": 0,
+            "newIntake": 0
+        },
+        {
+            "date": "2020-04-02",
+            "diedCumulative": 0,
+            "icCount": 71,
+            "icCumulative": 0,
+            "intakeCount": 1112,
             "intakeCumulative": 0,
             "newIntake": 0
         }
