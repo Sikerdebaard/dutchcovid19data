@@ -285,8 +285,8 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1446,
-            "newIntake": 81
+            "intakeCumulative": 1449,
+            "newIntake": 84
         },
         {
             "date": "2020-04-01",
@@ -294,7 +294,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1450,
+            "intakeCumulative": 1453,
             "newIntake": 4
         }
     ],
