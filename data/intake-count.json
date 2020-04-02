@@ -284,7 +284,7 @@
             "diedCumulative": 0,
             "icCount": 70,
             "icCumulative": 0,
-            "intakeCount": 964,
+            "intakeCount": 965,
             "intakeCumulative": 0,
             "newIntake": 0
         },
@@ -293,7 +293,7 @@
             "diedCumulative": 0,
             "icCount": 71,
             "icCumulative": 0,
-            "intakeCount": 1019,
+            "intakeCount": 1020,
             "intakeCumulative": 0,
             "newIntake": 0
         },
@@ -302,7 +302,7 @@
             "diedCumulative": 0,
             "icCount": 70,
             "icCumulative": 0,
-            "intakeCount": 1095,
+            "intakeCount": 1096,
             "intakeCumulative": 0,
             "newIntake": 0
         },
@@ -311,7 +311,7 @@
             "diedCumulative": 0,
             "icCount": 71,
             "icCumulative": 0,
-            "intakeCount": 1155,
+            "intakeCount": 1158,
             "intakeCumulative": 0,
             "newIntake": 0
         },
@@ -320,16 +320,16 @@
             "diedCumulative": 0,
             "icCount": 71,
             "icCumulative": 0,
-            "intakeCount": 1143,
+            "intakeCount": 1145,
             "intakeCumulative": 0,
             "newIntake": 0
         },
         {
             "date": "2020-04-02",
             "diedCumulative": 0,
-            "icCount": 71,
+            "icCount": 72,
             "icCumulative": 0,
-            "intakeCount": 1111,
+            "intakeCount": 1121,
             "intakeCumulative": 0,
             "newIntake": 0
         }
