@@ -60,15 +60,24 @@ expected_mappings = [
     '/covid-19/public/intake-count/',
     '/covid-19/public/intake-cumulative/',
     '/covid-19/public/ic-count/',
-    '/covid-19/public/died-and-survivors-cumulative/',
+    '/covid-19/public/age-distribution-died-and-survivors/',
     '/covid-19/public/age-distribution/',
-    '/covid-19/public/age-distribution-died/'
+    '/covid-19/public/died-and-survivors-cumulative/',
+#    '/covid-19/public/age-distribution-died/'
 ]
 
 
 def distribution_to_xlsx(data, output_file):
-    df = pd.DataFrame(data=data, columns=['age_group', 'percentage'])
-    df.to_excel(output_file, index=False)
+    mapped = {}
+    for distribution in data:
+        for group, perc in distribution:
+            if group not in mapped:
+                mapped[group] = []
+            mapped[group].append(perc)
+
+    df = pd.DataFrame.from_dict(data=mapped, columns=['died', 'all_patients'], orient='index')
+
+    df.to_excel(output_file, index=False, index_label='age_group')
 
     
 def global_to_xlsx(data, output_file):
@@ -121,8 +130,9 @@ def died_and_survivors_to_xlsx(data, output_file):
     
     
 parser_mappings = {
-    'age-distribution': distribution_to_xlsx,
-    'age-distribution-died': distribution_to_xlsx,
+#    'age-distribution': distribution_to_xlsx,
+#    'age-distribution-died': distribution_to_xlsx,
+    'age-distribution-died-and-survivors': distribution_to_xlsx,
     'ic-count': date_based_data_to_xlsx,
     'intake-count': date_based_data_to_xlsx,
     'intake-cumulative': date_based_data_to_xlsx,
