@@ -240,8 +240,8 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 948,
-            "newIntake": 101
+            "intakeCumulative": 947,
+            "newIntake": 100
         },
         {
             "date": "2020-03-27",
@@ -249,7 +249,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1064,
+            "intakeCumulative": 1063,
             "newIntake": 116
         },
         {
@@ -258,7 +258,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1166,
+            "intakeCumulative": 1165,
             "newIntake": 102
         },
         {
@@ -267,7 +267,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1261,
+            "intakeCumulative": 1260,
             "newIntake": 95
         },
         {
@@ -276,7 +276,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1392,
+            "intakeCumulative": 1391,
             "newIntake": 131
         },
         {
@@ -285,7 +285,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1496,
+            "intakeCumulative": 1495,
             "newIntake": 104
         },
         {
@@ -295,7 +295,7 @@
             "icCumulative": 0,
             "intakeCount": 0,
             "intakeCumulative": 1570,
-            "newIntake": 74
+            "newIntake": 75
         },
         {
             "date": "2020-04-02",
@@ -312,8 +312,8 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1697,
-            "newIntake": 37
+            "intakeCumulative": 1704,
+            "newIntake": 44
         }
     ],
     "license": "\n    vermeld dat het artikel van www.stichting-nice.nl komt,\n    vermeld dat het artikel copyright 1996-2020 van Stichting NICE is,\n    vermeld een duidelijke en werkende link naar de juiste pagina op de website van Stichting NICE.\n",
