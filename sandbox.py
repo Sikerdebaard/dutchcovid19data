@@ -68,8 +68,8 @@ expected_mappings = [
 
 def alt_distribution_to_xlsx(data, output_file):
     df = pd.DataFrame(data=data, columns=['age_group', 'all_patients'])
-    df.index = df['age_group']
-    df.to_excel(output_file, index=False)
+    df.set_index('age_group', inplace=True)
+    df.to_excel(output_file, index_label='age_group')
 
 def distribution_to_xlsx(data, output_file):
     mapped = {}
