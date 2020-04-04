@@ -195,8 +195,8 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 450,
-            "newIntake": 70
+            "intakeCumulative": 451,
+            "newIntake": 71
         },
         {
             "date": "2020-03-22",
@@ -204,7 +204,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 521,
+            "intakeCumulative": 522,
             "newIntake": 71
         },
         {
@@ -213,7 +213,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 623,
+            "intakeCumulative": 624,
             "newIntake": 102
         },
         {
@@ -222,7 +222,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 731,
+            "intakeCumulative": 732,
             "newIntake": 108
         },
         {
@@ -231,7 +231,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 847,
+            "intakeCumulative": 848,
             "newIntake": 116
         },
         {
@@ -240,7 +240,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 947,
+            "intakeCumulative": 948,
             "newIntake": 100
         },
         {
@@ -250,7 +250,7 @@
             "icCumulative": 0,
             "intakeCount": 0,
             "intakeCumulative": 1063,
-            "newIntake": 116
+            "newIntake": 115
         },
         {
             "date": "2020-03-28",
@@ -258,8 +258,8 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1164,
-            "newIntake": 101
+            "intakeCumulative": 1165,
+            "newIntake": 102
         },
         {
             "date": "2020-03-29",
@@ -267,7 +267,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1259,
+            "intakeCumulative": 1260,
             "newIntake": 95
         },
         {
@@ -276,7 +276,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1390,
+            "intakeCumulative": 1391,
             "newIntake": 131
         },
         {
@@ -285,7 +285,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1494,
+            "intakeCumulative": 1495,
             "newIntake": 104
         },
         {
@@ -294,7 +294,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1569,
+            "intakeCumulative": 1570,
             "newIntake": 75
         },
         {
@@ -303,8 +303,8 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1660,
-            "newIntake": 91
+            "intakeCumulative": 1662,
+            "newIntake": 92
         },
         {
             "date": "2020-04-03",
@@ -312,8 +312,8 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1717,
-            "newIntake": 57
+            "intakeCumulative": 1722,
+            "newIntake": 60
         },
         {
             "date": "2020-04-04",
@@ -321,8 +321,8 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1719,
-            "newIntake": 2
+            "intakeCumulative": 1726,
+            "newIntake": 4
         }
     ],
     "license": "\n    vermeld dat het artikel van www.stichting-nice.nl komt,\n    vermeld dat het artikel copyright 1996-2020 van Stichting NICE is,\n    vermeld een duidelijke en werkende link naar de juiste pagina op de website van Stichting NICE.\n",
