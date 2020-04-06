@@ -330,8 +330,17 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1845,
-            "newIntake": 44
+            "intakeCumulative": 1846,
+            "newIntake": 45
+        },
+        {
+            "date": "2020-04-06",
+            "diedCumulative": 0,
+            "icCount": 0,
+            "icCumulative": 0,
+            "intakeCount": 0,
+            "intakeCumulative": 1848,
+            "newIntake": 2
         }
     ],
     "license": "\n    vermeld dat het artikel van www.stichting-nice.nl komt,\n    vermeld dat het artikel copyright 1996-2020 van Stichting NICE is,\n    vermeld een duidelijke en werkende link naar de juiste pagina op de website van Stichting NICE.\n",
