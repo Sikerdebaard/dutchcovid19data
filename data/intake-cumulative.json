@@ -276,8 +276,8 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1404,
-            "newIntake": 137
+            "intakeCumulative": 1403,
+            "newIntake": 136
         },
         {
             "date": "2020-03-31",
@@ -285,7 +285,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1511,
+            "intakeCumulative": 1510,
             "newIntake": 107
         },
         {
@@ -294,7 +294,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1589,
+            "intakeCumulative": 1588,
             "newIntake": 78
         },
         {
@@ -303,7 +303,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1686,
+            "intakeCumulative": 1685,
             "newIntake": 97
         },
         {
@@ -313,7 +313,7 @@
             "icCumulative": 0,
             "intakeCount": 0,
             "intakeCumulative": 1770,
-            "newIntake": 84
+            "newIntake": 85
         },
         {
             "date": "2020-04-04",
@@ -339,8 +339,8 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1945,
-            "newIntake": 43
+            "intakeCumulative": 1948,
+            "newIntake": 46
         },
         {
             "date": "2020-04-07",
@@ -348,8 +348,8 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1956,
-            "newIntake": 11
+            "intakeCumulative": 1960,
+            "newIntake": 12
         }
     ],
     "license": "\n    vermeld dat het artikel van www.stichting-nice.nl komt,\n    vermeld dat het artikel copyright 1996-2020 van Stichting NICE is,\n    vermeld een duidelijke en werkende link naar de juiste pagina op de website van Stichting NICE.\n",
