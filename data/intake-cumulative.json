@@ -240,8 +240,8 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 949,
-            "newIntake": 100
+            "intakeCumulative": 950,
+            "newIntake": 101
         },
         {
             "date": "2020-03-27",
@@ -249,8 +249,8 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1064,
-            "newIntake": 115
+            "intakeCumulative": 1066,
+            "newIntake": 116
         },
         {
             "date": "2020-03-28",
@@ -258,7 +258,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1167,
+            "intakeCumulative": 1169,
             "newIntake": 103
         },
         {
@@ -267,7 +267,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1261,
+            "intakeCumulative": 1263,
             "newIntake": 94
         },
         {
@@ -276,8 +276,8 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1392,
-            "newIntake": 131
+            "intakeCumulative": 1396,
+            "newIntake": 133
         },
         {
             "date": "2020-03-31",
@@ -285,8 +285,8 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1498,
-            "newIntake": 106
+            "intakeCumulative": 1503,
+            "newIntake": 107
         },
         {
             "date": "2020-04-01",
@@ -294,8 +294,8 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1574,
-            "newIntake": 76
+            "intakeCumulative": 1580,
+            "newIntake": 77
         },
         {
             "date": "2020-04-02",
@@ -303,7 +303,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1671,
+            "intakeCumulative": 1677,
             "newIntake": 97
         },
         {
@@ -312,8 +312,8 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1753,
-            "newIntake": 82
+            "intakeCumulative": 1760,
+            "newIntake": 83
         },
         {
             "date": "2020-04-04",
@@ -321,8 +321,8 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1807,
-            "newIntake": 54
+            "intakeCumulative": 1818,
+            "newIntake": 58
         },
         {
             "date": "2020-04-05",
@@ -330,8 +330,8 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1873,
-            "newIntake": 66
+            "intakeCumulative": 1886,
+            "newIntake": 68
         },
         {
             "date": "2020-04-06",
@@ -339,8 +339,8 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1910,
-            "newIntake": 37
+            "intakeCumulative": 1928,
+            "newIntake": 42
         },
         {
             "date": "2020-04-07",
@@ -348,8 +348,8 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1913,
-            "newIntake": 3
+            "intakeCumulative": 1935,
+            "newIntake": 7
         }
     ],
     "license": "\n    vermeld dat het artikel van www.stichting-nice.nl komt,\n    vermeld dat het artikel copyright 1996-2020 van Stichting NICE is,\n    vermeld een duidelijke en werkende link naar de juiste pagina op de website van Stichting NICE.\n",
