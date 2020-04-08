@@ -276,8 +276,8 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1404,
-            "newIntake": 136
+            "intakeCumulative": 1405,
+            "newIntake": 137
         },
         {
             "date": "2020-03-31",
@@ -286,7 +286,7 @@
             "icCumulative": 0,
             "intakeCount": 0,
             "intakeCumulative": 1515,
-            "newIntake": 111
+            "newIntake": 110
         },
         {
             "date": "2020-04-01",
@@ -321,8 +321,8 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1839,
-            "newIntake": 61
+            "intakeCumulative": 1840,
+            "newIntake": 62
         },
         {
             "date": "2020-04-05",
@@ -330,7 +330,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1915,
+            "intakeCumulative": 1916,
             "newIntake": 76
         },
         {
@@ -339,8 +339,8 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1970,
-            "newIntake": 55
+            "intakeCumulative": 1972,
+            "newIntake": 56
         },
         {
             "date": "2020-04-07",
@@ -348,8 +348,8 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 2007,
-            "newIntake": 37
+            "intakeCumulative": 2019,
+            "newIntake": 47
         },
         {
             "date": "2020-04-08",
@@ -357,8 +357,8 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 2014,
-            "newIntake": 7
+            "intakeCumulative": 2030,
+            "newIntake": 11
         }
     ],
     "license": "\n    vermeld dat het artikel van www.stichting-nice.nl komt,\n    vermeld dat het artikel copyright 1996-2020 van Stichting NICE is,\n    vermeld een duidelijke en werkende link naar de juiste pagina op de website van Stichting NICE.\n",

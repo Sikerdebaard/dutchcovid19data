@@ -302,7 +302,7 @@
             "diedCumulative": 0,
             "icCount": 70,
             "icCumulative": 0,
-            "intakeCount": 1110,
+            "intakeCount": 1111,
             "intakeCumulative": 0,
             "newIntake": 0
         },
@@ -311,7 +311,7 @@
             "diedCumulative": 0,
             "icCount": 71,
             "icCumulative": 0,
-            "intakeCount": 1174,
+            "intakeCount": 1173,
             "intakeCumulative": 0,
             "newIntake": 0
         },
@@ -320,7 +320,7 @@
             "diedCumulative": 0,
             "icCount": 72,
             "icCumulative": 0,
-            "intakeCount": 1183,
+            "intakeCount": 1182,
             "intakeCumulative": 0,
             "newIntake": 0
         },
@@ -329,7 +329,7 @@
             "diedCumulative": 0,
             "icCount": 72,
             "icCumulative": 0,
-            "intakeCount": 1227,
+            "intakeCount": 1226,
             "intakeCumulative": 0,
             "newIntake": 0
         },
@@ -338,7 +338,7 @@
             "diedCumulative": 0,
             "icCount": 71,
             "icCumulative": 0,
-            "intakeCount": 1263,
+            "intakeCount": 1262,
             "intakeCumulative": 0,
             "newIntake": 0
         },
@@ -365,25 +365,25 @@
             "diedCumulative": 0,
             "icCount": 71,
             "icCumulative": 0,
-            "intakeCount": 1271,
+            "intakeCount": 1272,
             "intakeCumulative": 0,
             "newIntake": 0
         },
         {
             "date": "2020-04-07",
             "diedCumulative": 0,
-            "icCount": 71,
+            "icCount": 72,
             "icCumulative": 0,
-            "intakeCount": 1238,
+            "intakeCount": 1249,
             "intakeCumulative": 0,
             "newIntake": 0
         },
         {
             "date": "2020-04-08",
             "diedCumulative": 0,
-            "icCount": 71,
+            "icCount": 72,
             "icCumulative": 0,
-            "intakeCount": 1181,
+            "intakeCount": 1190,
             "intakeCumulative": 0,
             "newIntake": 0
         }
