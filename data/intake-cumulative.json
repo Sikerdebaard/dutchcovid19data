@@ -285,8 +285,8 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1521,
-            "newIntake": 110
+            "intakeCumulative": 1520,
+            "newIntake": 109
         },
         {
             "date": "2020-04-01",
@@ -294,7 +294,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1601,
+            "intakeCumulative": 1600,
             "newIntake": 80
         },
         {
@@ -303,7 +303,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1698,
+            "intakeCumulative": 1697,
             "newIntake": 97
         },
         {
@@ -312,7 +312,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1784,
+            "intakeCumulative": 1783,
             "newIntake": 86
         },
         {
@@ -321,7 +321,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1846,
+            "intakeCumulative": 1845,
             "newIntake": 62
         },
         {
@@ -330,7 +330,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1922,
+            "intakeCumulative": 1921,
             "newIntake": 76
         },
         {
@@ -339,7 +339,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1981,
+            "intakeCumulative": 1980,
             "newIntake": 59
         },
         {
@@ -348,7 +348,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 2038,
+            "intakeCumulative": 2037,
             "newIntake": 57
         },
         {
@@ -357,7 +357,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 2065,
+            "intakeCumulative": 2064,
             "newIntake": 27
         }
     ],
