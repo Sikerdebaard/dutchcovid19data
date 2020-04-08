@@ -96,8 +96,8 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 34,
-            "newIntake": 8
+            "intakeCumulative": 35,
+            "newIntake": 9
         },
         {
             "date": "2020-03-11",
@@ -105,7 +105,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 42,
+            "intakeCumulative": 43,
             "newIntake": 8
         },
         {
@@ -114,8 +114,8 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 64,
-            "newIntake": 22
+            "intakeCumulative": 66,
+            "newIntake": 23
         },
         {
             "date": "2020-03-13",
@@ -123,7 +123,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 78,
+            "intakeCumulative": 80,
             "newIntake": 14
         },
         {
@@ -132,8 +132,8 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 95,
-            "newIntake": 17
+            "intakeCumulative": 98,
+            "newIntake": 18
         },
         {
             "date": "2020-03-15",
@@ -141,7 +141,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 122,
+            "intakeCumulative": 125,
             "newIntake": 27
         },
         {
@@ -150,7 +150,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 155,
+            "intakeCumulative": 158,
             "newIntake": 33
         },
         {
@@ -159,7 +159,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 190,
+            "intakeCumulative": 193,
             "newIntake": 35
         },
         {
@@ -168,7 +168,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 241,
+            "intakeCumulative": 244,
             "newIntake": 51
         },
         {
@@ -177,7 +177,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 301,
+            "intakeCumulative": 304,
             "newIntake": 60
         },
         {
@@ -186,7 +186,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 386,
+            "intakeCumulative": 389,
             "newIntake": 85
         },
         {
@@ -195,7 +195,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 456,
+            "intakeCumulative": 459,
             "newIntake": 70
         },
         {
@@ -204,7 +204,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 527,
+            "intakeCumulative": 530,
             "newIntake": 71
         },
         {
@@ -213,7 +213,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 629,
+            "intakeCumulative": 632,
             "newIntake": 102
         },
         {
@@ -222,7 +222,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 736,
+            "intakeCumulative": 739,
             "newIntake": 107
         },
         {
@@ -231,7 +231,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 852,
+            "intakeCumulative": 855,
             "newIntake": 116
         },
         {
@@ -240,7 +240,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 955,
+            "intakeCumulative": 958,
             "newIntake": 103
         },
         {
@@ -249,7 +249,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1072,
+            "intakeCumulative": 1075,
             "newIntake": 117
         },
         {
@@ -258,7 +258,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1175,
+            "intakeCumulative": 1178,
             "newIntake": 103
         },
         {
@@ -267,7 +267,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1269,
+            "intakeCumulative": 1272,
             "newIntake": 94
         },
         {
@@ -276,7 +276,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1406,
+            "intakeCumulative": 1409,
             "newIntake": 137
         },
         {
@@ -285,7 +285,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1516,
+            "intakeCumulative": 1519,
             "newIntake": 110
         },
         {
@@ -294,7 +294,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1596,
+            "intakeCumulative": 1599,
             "newIntake": 80
         },
         {
@@ -303,7 +303,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1693,
+            "intakeCumulative": 1696,
             "newIntake": 97
         },
         {
@@ -312,7 +312,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1779,
+            "intakeCumulative": 1782,
             "newIntake": 86
         },
         {
@@ -321,7 +321,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1841,
+            "intakeCumulative": 1844,
             "newIntake": 62
         },
         {
@@ -330,7 +330,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1917,
+            "intakeCumulative": 1920,
             "newIntake": 76
         },
         {
@@ -339,7 +339,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 1972,
+            "intakeCumulative": 1975,
             "newIntake": 55
         },
         {
@@ -348,7 +348,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 2026,
+            "intakeCumulative": 2029,
             "newIntake": 54
         },
         {
@@ -357,8 +357,8 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 2044,
-            "newIntake": 18
+            "intakeCumulative": 2048,
+            "newIntake": 19
         }
     ],
     "license": "\n    vermeld dat het artikel van www.stichting-nice.nl komt,\n    vermeld dat het artikel copyright 1996-2020 van Stichting NICE is,\n    vermeld een duidelijke en werkende link naar de juiste pagina op de website van Stichting NICE.\n",
