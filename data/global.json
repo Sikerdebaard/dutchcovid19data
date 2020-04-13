@@ -1,8 +1,8 @@
 {
     "data": {
-        "count": 2289,
-        "countCurrent": 1134,
-        "countCurrentSuspected": 42,
+        "count": 2290,
+        "countCurrent": 1132,
+        "countCurrentSuspected": 39,
         "countDied": 414,
         "countDistinctHospno": 73
     },
