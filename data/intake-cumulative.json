@@ -348,8 +348,8 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 2053,
-            "newIntake": 64
+            "intakeCumulative": 2054,
+            "newIntake": 65
         },
         {
             "date": "2020-04-08",
@@ -357,7 +357,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 2113,
+            "intakeCumulative": 2114,
             "newIntake": 60
         },
         {
@@ -366,7 +366,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 2171,
+            "intakeCumulative": 2172,
             "newIntake": 58
         },
         {
@@ -375,7 +375,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 2223,
+            "intakeCumulative": 2224,
             "newIntake": 52
         },
         {
@@ -384,7 +384,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 2251,
+            "intakeCumulative": 2252,
             "newIntake": 28
         },
         {
@@ -393,8 +393,8 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 2281,
-            "newIntake": 30
+            "intakeCumulative": 2283,
+            "newIntake": 31
         },
         {
             "date": "2020-04-13",
@@ -402,7 +402,7 @@
             "icCount": 0,
             "icCumulative": 0,
             "intakeCount": 0,
-            "intakeCumulative": 2290,
+            "intakeCumulative": 2292,
             "newIntake": 9
         }
     ],
