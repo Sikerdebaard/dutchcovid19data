@@ -159,7 +159,7 @@ parser_mappings = {
     'ic-count': date_based_data_to_xlsx,
     'intake-count': date_based_data_to_xlsx,
     'intake-cumulative': date_based_data_to_xlsx,
-    'new-intake': date_based_data_to_xlsx,
+    'new-intake': alt_date_based_data_to_xlsx,
     'died-and-survivors-cumulative': died_and_survivors_to_xlsx,
     'global': global_to_xlsx
 }
