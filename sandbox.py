@@ -89,8 +89,23 @@ def global_to_xlsx(data, output_file):
     
     df.to_excel(output_file, header=False)
     
+def alt_date_based_data_to_xlsx(data, output_file, names):
+    df = None
     
-def date_based_data_to_xlsx(data, output_file):
+    counter = 0
+    for d in data:
+        if df is None:
+            df = date_based_data_to_xlsx(d, output_file, False)
+            df.rename({'value': names[counter]}, axis=1, inplace=True)
+        else:
+            df2 = date_based_data_to_xlsx(d, output_file, False)
+            df2.rename({'value': names[counter]}, axis=1, inplace=True)
+            df = df.join(df2, how='outer')
+        counter += 1
+    
+    df.to_excel(output_file)
+    
+def date_based_data_to_xlsx(data, output_file, output=True):
     df = pd.DataFrame.from_dict(data)
     df['date'] = pd.to_datetime(df['date']).dt.date  # convert date to date-type 
     df = df.set_index('date').sort_index()  # set date as index and sort on date
@@ -106,7 +121,11 @@ def date_based_data_to_xlsx(data, output_file):
             df[column] = df[column].fillna(0)
     
     df.index = df.index.date
-    df.to_excel(output_file)
+
+    if output:
+        df.to_excel(output_file)
+
+    return df
 
     
 def died_and_survivors_to_xlsx(data, output_file):
@@ -145,6 +164,9 @@ parser_mappings = {
     'global': global_to_xlsx
 }
 
+name_mappings = {
+    'new-intake': ['value', 'not-confirmed']
+}
 
 resp = get(f'{stichting_nice_url}/js/covid-19.js')
 
@@ -164,9 +186,12 @@ for line in resp.text.splitlines():
             
             with open(data_output_path / f'{name}.json', 'w') as fh:
                 fh.write(json.dumps(data, sort_keys=True, indent=4))
-                
+        
             if name in parser_mappings:
-                parser_mappings[name](data['data'], data_output_path / f'{name}.xlsx')
+                if name in name_mappings:
+                    parser_mappings[name](data['data'], data_output_path / f'{name}.xlsx', name_mappings[name])
+                else:
+                    parser_mappings[name](data['data'], data_output_path / f'{name}.xlsx')
         else:
             print(f'Unknown url: {url}')
             
