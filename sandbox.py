@@ -139,6 +139,12 @@ def died_and_survivors_to_xlsx(data, output_file):
             modified[survivor['date']] = {}
         
         modified[survivor['date']]['survivors'] = survivor['value']
+
+    for moved in data[1]:
+        if moved['date'] not in modified:
+            modified[moved['date']] = {}
+
+        modified[moved['date']]['moved'] = moved['value']
     
     df = pd.DataFrame.from_dict(modified, orient='index')
     df.index = pd.to_datetime(df.index)
