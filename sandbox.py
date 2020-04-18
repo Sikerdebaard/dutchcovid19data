@@ -140,7 +140,7 @@ def died_and_survivors_to_xlsx(data, output_file):
         
         modified[survivor['date']]['survivors'] = survivor['value']
 
-    for moved in data[1]:
+    for moved in data[2]:
         if moved['date'] not in modified:
             modified[moved['date']] = {}
 
