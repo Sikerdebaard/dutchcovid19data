@@ -61,15 +61,28 @@ expected_mappings = [
     '/covid-19/public/intake-cumulative/',
     '/covid-19/public/ic-count/',
     '/covid-19/public/age-distribution-died-and-survivors/',
-    '/covid-19/public/age-distribution/',
+    '/covid-19/public/age-distribution-status/',
+#    '/covid-19/public/age-distribution/',
     '/covid-19/public/died-and-survivors-cumulative/',
 ]
 
 
-def alt_distribution_to_xlsx(data, output_file):
-    df = pd.DataFrame(data=data, columns=['age_group', 'all_patients'])
-    df.set_index('age_group', inplace=True)
-    df.to_excel(output_file, index_label='age_group')
+def alt_distribution_to_xlsx(data, output_file, columns):
+    df_out = None
+    counter = 0
+
+    for s in data:
+        if df_out is None:
+            df_out = pd.DataFrame(s)
+            df_out.set_index(0, inplace=True)
+            df_out.rename(columns={1: columns[counter]}, inplace=True)
+        else:
+            df_tmp = pd.DataFrame(s).set_index(0)
+            df_tmp.rename(columns={1: columns[counter]}, inplace=True)
+            df_out = df_out.join(df_tmp)
+        counter += 1
+
+    df_out.to_excel(output_file, index_label='age_group')
 
 def distribution_to_xlsx(data, output_file):
     mapped = {}
@@ -159,7 +172,8 @@ def died_and_survivors_to_xlsx(data, output_file):
     
     
 parser_mappings = {
-    'age-distribution': alt_distribution_to_xlsx,
+#    'age-distribution': alt_distribution_to_xlsx,
+    'age-distribution-status': alt_distribution_to_xlsx,
 #    'age-distribution-died': distribution_to_xlsx,
     'age-distribution-died-and-survivors': distribution_to_xlsx,
     'ic-count': date_based_data_to_xlsx,
@@ -171,7 +185,8 @@ parser_mappings = {
 }
 
 name_mappings = {
-    'new-intake': ['value', 'not-confirmed']
+    'new-intake': ['value', 'not-confirmed'],
+    'age-distribution-status': ['patients_in_icu', 'patients_in_hospital', 'recovered_patients', 'deceased_patients']
 }
 
 resp = get(f'{stichting_nice_url}/js/covid-19.js')
