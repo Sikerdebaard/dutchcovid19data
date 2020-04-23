@@ -60,10 +60,11 @@ expected_mappings = [
     '/covid-19/public/intake-count/',
     '/covid-19/public/intake-cumulative/',
     '/covid-19/public/ic-count/',
-    '/covid-19/public/age-distribution-died-and-survivors/',
+#    '/covid-19/public/age-distribution-died-and-survivors/',
     '/covid-19/public/age-distribution-status/',
 #    '/covid-19/public/age-distribution/',
     '/covid-19/public/died-and-survivors-cumulative/',
+    '/covid-19/public/behandelduur-distribution/',
 ]
 
 
@@ -174,8 +175,9 @@ def died_and_survivors_to_xlsx(data, output_file):
 parser_mappings = {
 #    'age-distribution': alt_distribution_to_xlsx,
     'age-distribution-status': alt_distribution_to_xlsx,
+    'behandelduur-distribution': alt_distribution_to_xlsx,
 #    'age-distribution-died': distribution_to_xlsx,
-    'age-distribution-died-and-survivors': distribution_to_xlsx,
+#    'age-distribution-died-and-survivors': distribution_to_xlsx,
     'ic-count': date_based_data_to_xlsx,
     'intake-count': date_based_data_to_xlsx,
     'intake-cumulative': date_based_data_to_xlsx,
@@ -186,18 +188,24 @@ parser_mappings = {
 
 name_mappings = {
     'new-intake': ['value', 'not-confirmed'],
-    'age-distribution-status': ['patients_in_icu', 'patients_in_hospital', 'recovered_patients', 'deceased_patients']
+    'age-distribution-status': ['patients_in_icu', 'patients_in_hospital', 'recovered_patients', 'deceased_patients'],
+    'behandelduur-distribution': ['patients_in_hospital', 'patients_in_icu', 'recovered_patients', 'deceased_patients'],
 }
 
 resp = get(f'{stichting_nice_url}/js/covid-19.js')
+done_urls = []
 
 for line in resp.text.splitlines():
     if 'url' in line.lower():
         url = [x.strip() for x in line.split('\'')]
+        if url in done_urls:
+            print(f'Skipping double url: {url}')
+            continue
         if len(url) > 2 and url[1] in expected_mappings:
             name = url[1].strip('/').split('/')[-1]
             print(f'Downloading {url[1]} to {name}.json')
             data_req = get(f'{stichting_nice_url}{url[1]}')
+            done_urls.append(url)
             expected_mappings.remove(url[1])
             
             data = {'data': data_req.json()}
