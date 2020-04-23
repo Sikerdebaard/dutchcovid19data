@@ -68,7 +68,7 @@ expected_mappings = [
 ]
 
 
-def alt_distribution_to_xlsx(data, output_file, columns):
+def alt_distribution_to_xlsx(data, output_file, columns, index_label='age_group'):
     df_out = None
     counter = 0
 
@@ -83,7 +83,7 @@ def alt_distribution_to_xlsx(data, output_file, columns):
             df_out = df_out.join(df_tmp)
         counter += 1
 
-    df_out.to_excel(output_file, index_label='age_group')
+    df_out.to_excel(output_file, index_label=index_label)
 
 def distribution_to_xlsx(data, output_file):
     mapped = {}
@@ -192,6 +192,10 @@ name_mappings = {
     'behandelduur-distribution': ['patients_in_hospital', 'patients_in_icu', 'recovered_patients', 'deceased_patients'],
 }
 
+index_labels = {
+    'behandelduur-distribution': 'treatment_time_in_days'
+}
+
 resp = get(f'{stichting_nice_url}/js/covid-19.js')
 done_urls = []
 
@@ -218,7 +222,10 @@ for line in resp.text.splitlines():
         
             if name in parser_mappings:
                 if name in name_mappings:
-                    parser_mappings[name](data['data'], data_output_path / f'{name}.xlsx', name_mappings[name])
+                    if name in index_labels:
+                        parser_mappings[name](data['data'], data_output_path / f'{name}.xlsx', name_mappings[name], index_labels[name])
+                    else:
+                        parser_mappings[name](data['data'], data_output_path / f'{name}.xlsx', name_mappings[name])
                 else:
                     parser_mappings[name](data['data'], data_output_path / f'{name}.xlsx')
         else:
