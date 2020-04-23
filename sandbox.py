@@ -188,7 +188,7 @@ parser_mappings = {
 
 name_mappings = {
     'new-intake': ['value', 'not-confirmed'],
-    'age-distribution-status': ['patients_in_icu', 'patients_in_hospital', 'recovered_patients', 'deceased_patients'],
+    'age-distribution-status': ['patients_in_hospital', 'patients_in_icu', 'recovered_patients', 'deceased_patients'],
     'behandelduur-distribution': ['patients_in_hospital', 'patients_in_icu', 'recovered_patients', 'deceased_patients'],
 }
 
