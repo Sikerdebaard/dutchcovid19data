@@ -6,15 +6,15 @@
         },
         {
             "date": "2020-02-28",
-            "value": 6
-        },
-        {
-            "date": "2020-02-29",
             "value": 7
         },
         {
+            "date": "2020-02-29",
+            "value": 8
+        },
+        {
             "date": "2020-03-01",
-            "value": 9
+            "value": 10
         },
         {
             "date": "2020-03-02",
@@ -234,7 +234,11 @@
         },
         {
             "date": "2020-04-25",
-            "value": 855
+            "value": 856
+        },
+        {
+            "date": "2020-04-26",
+            "value": 834
         }
     ],
     "license": "\n    vermeld dat het artikel van www.stichting-nice.nl komt,\n    vermeld dat het artikel copyright 1996-2020 van Stichting NICE is,\n    vermeld een duidelijke en werkende link naar de juiste pagina op de website van Stichting NICE.\n",
