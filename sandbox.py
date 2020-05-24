@@ -44,7 +44,8 @@ data_output_path.mkdir(parents=True, exist_ok=True)
 
 # remove old files
 for f in data_output_path.glob('*'):
-    f.unlink()
+    if not f.is_dir():
+        f.unlink()
 
 stichting_nice_url = 'https://www.stichting-nice.nl'
 
