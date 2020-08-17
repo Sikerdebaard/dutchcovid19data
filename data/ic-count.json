@@ -622,51 +622,51 @@
         },
         {
             "date": "2020-07-31",
-            "value": 18
-        },
-        {
-            "date": "2020-08-01",
-            "value": 18
-        },
-        {
-            "date": "2020-08-02",
             "value": 19
         },
         {
+            "date": "2020-08-01",
+            "value": 19
+        },
+        {
+            "date": "2020-08-02",
+            "value": 20
+        },
+        {
             "date": "2020-08-03",
-            "value": 21
+            "value": 22
         },
         {
             "date": "2020-08-04",
-            "value": 23
-        },
-        {
-            "date": "2020-08-05",
-            "value": 23
-        },
-        {
-            "date": "2020-08-06",
-            "value": 25
-        },
-        {
-            "date": "2020-08-07",
             "value": 24
         },
         {
-            "date": "2020-08-08",
+            "date": "2020-08-05",
+            "value": 24
+        },
+        {
+            "date": "2020-08-06",
+            "value": 26
+        },
+        {
+            "date": "2020-08-07",
             "value": 25
         },
         {
+            "date": "2020-08-08",
+            "value": 26
+        },
+        {
             "date": "2020-08-09",
-            "value": 27
+            "value": 28
         },
         {
             "date": "2020-08-10",
-            "value": 28
+            "value": 29
         },
         {
             "date": "2020-08-11",
-            "value": 28
+            "value": 29
         },
         {
             "date": "2020-08-12",
@@ -682,15 +682,15 @@
         },
         {
             "date": "2020-08-15",
-            "value": 31
+            "value": 30
         },
         {
             "date": "2020-08-16",
-            "value": 31
+            "value": 30
         },
         {
             "date": "2020-08-17",
-            "value": 31
+            "value": 30
         }
     ],
     "license": "\n    vermeld dat het artikel van www.stichting-nice.nl komt,\n    vermeld dat het artikel copyright 1996-2020 van Stichting NICE is,\n    vermeld een duidelijke en werkende link naar de juiste pagina op de website van Stichting NICE.\n",
