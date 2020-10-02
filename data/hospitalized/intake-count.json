@@ -678,175 +678,175 @@
         },
         {
             "date": "2020-08-14",
-            "value": 141
+            "value": 142
         },
         {
             "date": "2020-08-15",
-            "value": 137
-        },
-        {
-            "date": "2020-08-16",
-            "value": 143
-        },
-        {
-            "date": "2020-08-17",
-            "value": 161
-        },
-        {
-            "date": "2020-08-18",
-            "value": 153
-        },
-        {
-            "date": "2020-08-19",
-            "value": 153
-        },
-        {
-            "date": "2020-08-20",
-            "value": 163
-        },
-        {
-            "date": "2020-08-21",
-            "value": 157
-        },
-        {
-            "date": "2020-08-22",
-            "value": 137
-        },
-        {
-            "date": "2020-08-23",
             "value": 138
         },
         {
+            "date": "2020-08-16",
+            "value": 144
+        },
+        {
+            "date": "2020-08-17",
+            "value": 162
+        },
+        {
+            "date": "2020-08-18",
+            "value": 154
+        },
+        {
+            "date": "2020-08-19",
+            "value": 154
+        },
+        {
+            "date": "2020-08-20",
+            "value": 164
+        },
+        {
+            "date": "2020-08-21",
+            "value": 158
+        },
+        {
+            "date": "2020-08-22",
+            "value": 138
+        },
+        {
+            "date": "2020-08-23",
+            "value": 139
+        },
+        {
             "date": "2020-08-24",
-            "value": 141
+            "value": 142
         },
         {
             "date": "2020-08-25",
-            "value": 146
+            "value": 147
         },
         {
             "date": "2020-08-26",
-            "value": 136
+            "value": 137
         },
         {
             "date": "2020-08-27",
-            "value": 121
+            "value": 122
         },
         {
             "date": "2020-08-28",
-            "value": 125
+            "value": 126
         },
         {
             "date": "2020-08-29",
-            "value": 106
+            "value": 107
         },
         {
             "date": "2020-08-30",
-            "value": 106
+            "value": 107
         },
         {
             "date": "2020-08-31",
-            "value": 119
-        },
-        {
-            "date": "2020-09-01",
             "value": 120
         },
         {
+            "date": "2020-09-01",
+            "value": 121
+        },
+        {
             "date": "2020-09-02",
-            "value": 125
+            "value": 126
         },
         {
             "date": "2020-09-03",
-            "value": 116
-        },
-        {
-            "date": "2020-09-04",
-            "value": 123
-        },
-        {
-            "date": "2020-09-05",
             "value": 117
         },
         {
+            "date": "2020-09-04",
+            "value": 124
+        },
+        {
+            "date": "2020-09-05",
+            "value": 118
+        },
+        {
             "date": "2020-09-06",
-            "value": 135
+            "value": 136
         },
         {
             "date": "2020-09-07",
-            "value": 155
+            "value": 156
         },
         {
             "date": "2020-09-08",
-            "value": 165
+            "value": 166
         },
         {
             "date": "2020-09-09",
-            "value": 180
+            "value": 181
         },
         {
             "date": "2020-09-10",
-            "value": 176
+            "value": 177
         },
         {
             "date": "2020-09-11",
-            "value": 196
+            "value": 197
         },
         {
             "date": "2020-09-12",
-            "value": 192
+            "value": 193
         },
         {
             "date": "2020-09-13",
-            "value": 203
+            "value": 204
         },
         {
             "date": "2020-09-14",
-            "value": 235
+            "value": 236
         },
         {
             "date": "2020-09-15",
-            "value": 242
+            "value": 243
         },
         {
             "date": "2020-09-16",
-            "value": 265
+            "value": 266
         },
         {
             "date": "2020-09-17",
-            "value": 288
+            "value": 289
         },
         {
             "date": "2020-09-18",
-            "value": 313
+            "value": 314
         },
         {
             "date": "2020-09-19",
-            "value": 319
+            "value": 320
         },
         {
             "date": "2020-09-20",
-            "value": 333
+            "value": 334
         },
         {
             "date": "2020-09-21",
-            "value": 374
+            "value": 375
         },
         {
             "date": "2020-09-22",
-            "value": 406
+            "value": 407
         },
         {
             "date": "2020-09-23",
-            "value": 438
+            "value": 439
         },
         {
             "date": "2020-09-24",
-            "value": 480
+            "value": 481
         },
         {
             "date": "2020-09-25",
-            "value": 498
+            "value": 499
         },
         {
             "date": "2020-09-26",
@@ -854,7 +854,7 @@
         },
         {
             "date": "2020-09-27",
-            "value": 528
+            "value": 527
         },
         {
             "date": "2020-09-28",
@@ -862,19 +862,19 @@
         },
         {
             "date": "2020-09-29",
-            "value": 607
+            "value": 604
         },
         {
             "date": "2020-09-30",
-            "value": 635
+            "value": 632
         },
         {
             "date": "2020-10-01",
-            "value": 660
+            "value": 664
         },
         {
             "date": "2020-10-02",
-            "value": 623
+            "value": 629
         }
     ],
     "license": "\n    vermeld dat het artikel van www.stichting-nice.nl komt,\n    vermeld dat het artikel copyright 1996-2020 van Stichting NICE is,\n    vermeld een duidelijke en werkende link naar de juiste pagina op de website van Stichting NICE.\n",
