@@ -834,51 +834,51 @@
         },
         {
             "date": "2020-09-22",
-            "value": 451
+            "value": 449
         },
         {
             "date": "2020-09-23",
-            "value": 490
+            "value": 491
         },
         {
             "date": "2020-09-24",
-            "value": 540
+            "value": 541
         },
         {
             "date": "2020-09-25",
-            "value": 567
+            "value": 568
         },
         {
             "date": "2020-09-26",
-            "value": 562
+            "value": 563
         },
         {
             "date": "2020-09-27",
-            "value": 593
+            "value": 594
         },
         {
             "date": "2020-09-28",
-            "value": 639
+            "value": 640
         },
         {
             "date": "2020-09-29",
-            "value": 680
+            "value": 681
         },
         {
             "date": "2020-09-30",
-            "value": 702
+            "value": 704
         },
         {
             "date": "2020-10-01",
-            "value": 732
+            "value": 734
         },
         {
             "date": "2020-10-02",
-            "value": 766
+            "value": 768
         },
         {
             "date": "2020-10-03",
-            "value": 789
+            "value": 790
         },
         {
             "date": "2020-10-04",
@@ -886,15 +886,15 @@
         },
         {
             "date": "2020-10-05",
-            "value": 951
-        },
-        {
-            "date": "2020-10-06",
             "value": 944
         },
         {
+            "date": "2020-10-06",
+            "value": 960
+        },
+        {
             "date": "2020-10-07",
-            "value": 900
+            "value": 905
         }
     ],
     "license": "\n    vermeld dat het artikel van www.stichting-nice.nl komt,\n    vermeld dat het artikel copyright 1996-2020 van Stichting NICE is,\n    vermeld een duidelijke en werkende link naar de juiste pagina op de website van Stichting NICE.\n",
