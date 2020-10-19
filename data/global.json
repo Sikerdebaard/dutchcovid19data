@@ -1,10 +1,10 @@
 {
     "data": {
-        "count": 3882,
-        "countCurrent": 410,
+        "count": 3886,
+        "countCurrent": 413,
         "countCurrentSuspected": 0,
-        "countDied": 1005,
-        "countDistinctHospno": 73
+        "countDied": 1007,
+        "countDistinctHospno": 74
     },
     "license": "\n    vermeld dat het artikel van www.stichting-nice.nl komt,\n    vermeld dat het artikel copyright 1996-2020 van Stichting NICE is,\n    vermeld een duidelijke en werkende link naar de juiste pagina op de website van Stichting NICE.\n",
     "source": "https://www.stichting-nice.nl/covid-19/public/global"
