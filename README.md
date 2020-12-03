@@ -1,6 +1,7 @@
 # Dutch covid-19 ICU data
-Mirrored intensive data from stichting-NICE
+Mirror of stichting-NICE data
 
+Folders:
 * data/ ICU data from https://www.stichting-nice.nl/covid-19-op-de-ic.jsp
 * data/hospitalized Hospital data from https://www.stichting-nice.nl/covid-19-op-de-zkh.jsp
 
