@@ -1110,11 +1110,11 @@
         },
         {
             "date": "2020-11-30",
-            "value": 518
+            "value": 519
         },
         {
             "date": "2020-12-01",
-            "value": 511
+            "value": 512
         },
         {
             "date": "2020-12-02",
@@ -1122,59 +1122,59 @@
         },
         {
             "date": "2020-12-03",
-            "value": 502
+            "value": 503
         },
         {
             "date": "2020-12-04",
-            "value": 511
+            "value": 513
         },
         {
             "date": "2020-12-05",
-            "value": 506
-        },
-        {
-            "date": "2020-12-06",
             "value": 508
         },
         {
-            "date": "2020-12-07",
-            "value": 506
-        },
-        {
-            "date": "2020-12-08",
+            "date": "2020-12-06",
             "value": 510
         },
         {
-            "date": "2020-12-09",
+            "date": "2020-12-07",
             "value": 507
         },
         {
+            "date": "2020-12-08",
+            "value": 513
+        },
+        {
+            "date": "2020-12-09",
+            "value": 509
+        },
+        {
             "date": "2020-12-10",
-            "value": 510
+            "value": 513
         },
         {
             "date": "2020-12-11",
-            "value": 509
+            "value": 511
         },
         {
             "date": "2020-12-12",
-            "value": 509
+            "value": 510
         },
         {
             "date": "2020-12-13",
-            "value": 531
+            "value": 533
         },
         {
             "date": "2020-12-14",
-            "value": 539
+            "value": 541
         },
         {
             "date": "2020-12-15",
-            "value": 548
+            "value": 554
         },
         {
             "date": "2020-12-16",
-            "value": 524
+            "value": 528
         }
     ],
     "license": "\n    vermeld dat het artikel van www.stichting-nice.nl komt,\n    vermeld dat het artikel copyright 1996-2020 van Stichting NICE is,\n    vermeld een duidelijke en werkende link naar de juiste pagina op de website van Stichting NICE.\n",
