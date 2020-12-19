@@ -1026,19 +1026,19 @@
         },
         {
             "date": "2020-11-09",
-            "value": 2008
+            "value": 2009
         },
         {
             "date": "2020-11-10",
-            "value": 1961
+            "value": 1962
         },
         {
             "date": "2020-11-11",
-            "value": 1919
+            "value": 1920
         },
         {
             "date": "2020-11-12",
-            "value": 1870
+            "value": 1871
         },
         {
             "date": "2020-11-13",
@@ -1122,19 +1122,19 @@
         },
         {
             "date": "2020-12-03",
-            "value": 1597
-        },
-        {
-            "date": "2020-12-04",
-            "value": 1636
-        },
-        {
-            "date": "2020-12-05",
             "value": 1596
         },
         {
+            "date": "2020-12-04",
+            "value": 1635
+        },
+        {
+            "date": "2020-12-05",
+            "value": 1595
+        },
+        {
             "date": "2020-12-06",
-            "value": 1639
+            "value": 1638
         },
         {
             "date": "2020-12-07",
@@ -1142,11 +1142,11 @@
         },
         {
             "date": "2020-12-08",
-            "value": 1737
+            "value": 1738
         },
         {
             "date": "2020-12-09",
-            "value": 1730
+            "value": 1731
         },
         {
             "date": "2020-12-10",
@@ -1166,27 +1166,27 @@
         },
         {
             "date": "2020-12-14",
-            "value": 1982
+            "value": 1983
         },
         {
             "date": "2020-12-15",
-            "value": 1977
+            "value": 1975
         },
         {
             "date": "2020-12-16",
-            "value": 2009
+            "value": 2003
         },
         {
             "date": "2020-12-17",
-            "value": 2073
+            "value": 2065
         },
         {
             "date": "2020-12-18",
-            "value": 1980
+            "value": 1995
         },
         {
             "date": "2020-12-19",
-            "value": 1911
+            "value": 1899
         }
     ],
     "license": "\n    vermeld dat het artikel van www.stichting-nice.nl komt,\n    vermeld dat het artikel copyright 1996-2020 van Stichting NICE is,\n    vermeld een duidelijke en werkende link naar de juiste pagina op de website van Stichting NICE.\n",
