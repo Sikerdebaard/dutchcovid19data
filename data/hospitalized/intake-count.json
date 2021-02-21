@@ -1390,59 +1390,59 @@
         },
         {
             "date": "2021-02-08",
-            "value": 1626
+            "value": 1627
         },
         {
             "date": "2021-02-09",
-            "value": 1602
+            "value": 1603
         },
         {
             "date": "2021-02-10",
-            "value": 1601
+            "value": 1602
         },
         {
             "date": "2021-02-11",
-            "value": 1581
+            "value": 1582
         },
         {
             "date": "2021-02-12",
-            "value": 1562
-        },
-        {
-            "date": "2021-02-13",
-            "value": 1471
-        },
-        {
-            "date": "2021-02-14",
-            "value": 1479
-        },
-        {
-            "date": "2021-02-15",
-            "value": 1585
-        },
-        {
-            "date": "2021-02-16",
-            "value": 1581
-        },
-        {
-            "date": "2021-02-17",
-            "value": 1557
-        },
-        {
-            "date": "2021-02-18",
             "value": 1564
         },
         {
+            "date": "2021-02-13",
+            "value": 1473
+        },
+        {
+            "date": "2021-02-14",
+            "value": 1481
+        },
+        {
+            "date": "2021-02-15",
+            "value": 1588
+        },
+        {
+            "date": "2021-02-16",
+            "value": 1586
+        },
+        {
+            "date": "2021-02-17",
+            "value": 1562
+        },
+        {
+            "date": "2021-02-18",
+            "value": 1570
+        },
+        {
             "date": "2021-02-19",
-            "value": 1523
+            "value": 1533
         },
         {
             "date": "2021-02-20",
-            "value": 1442
+            "value": 1454
         },
         {
             "date": "2021-02-21",
-            "value": 1372
+            "value": 1380
         }
     ],
     "license": "\n    vermeld dat het artikel van www.stichting-nice.nl komt,\n    vermeld dat het artikel copyright 1996-2020 van Stichting NICE is,\n    vermeld een duidelijke en werkende link naar de juiste pagina op de website van Stichting NICE.\n",
