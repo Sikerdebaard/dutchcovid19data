@@ -210,6 +210,11 @@ for line in resp.text.splitlines():
             name = url[1].strip('/').split('/')[-1]
             print(f'Downloading {url[1]} to {name}.json')
             data_req = get(f'{stichting_nice_url}{url[1]}')
+            
+            if not data_req.text or len(data_req.text.strip()) == 0:
+                print(f'Empty response! Skipping {url[1]}')
+                continue
+                
             done_urls.append(url)
             expected_mappings.remove(url[1])
             
