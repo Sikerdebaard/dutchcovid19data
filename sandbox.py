@@ -218,7 +218,12 @@ for line in resp.text.splitlines():
             done_urls.append(url)
             expected_mappings.remove(url[1])
             
-            data = {'data': data_req.json()}
+            try:
+                data = {'data': data_req.json()}
+            except:
+                print(f'Empty response! Skipping {url[1]}')
+                continue
+
             
             data['license'] = stichting_nice_license
             data['source'] = data_req.url
