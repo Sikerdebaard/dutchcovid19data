@@ -1554,211 +1554,215 @@
         },
         {
             "date": "2021-03-21",
-            "value": 44779
+            "value": 44780
         },
         {
             "date": "2021-03-22",
-            "value": 45022
+            "value": 45023
         },
         {
             "date": "2021-03-23",
-            "value": 45225
+            "value": 45226
         },
         {
             "date": "2021-03-24",
-            "value": 45444
+            "value": 45445
         },
         {
             "date": "2021-03-25",
-            "value": 45647
+            "value": 45648
         },
         {
             "date": "2021-03-26",
-            "value": 45875
+            "value": 45876
         },
         {
             "date": "2021-03-27",
-            "value": 46008
+            "value": 46009
         },
         {
             "date": "2021-03-28",
-            "value": 46166
+            "value": 46167
         },
         {
             "date": "2021-03-29",
-            "value": 46462
+            "value": 46463
         },
         {
             "date": "2021-03-30",
-            "value": 46664
+            "value": 46665
         },
         {
             "date": "2021-03-31",
-            "value": 46876
+            "value": 46877
         },
         {
             "date": "2021-04-01",
-            "value": 47097
+            "value": 47098
         },
         {
             "date": "2021-04-02",
-            "value": 47277
+            "value": 47278
         },
         {
             "date": "2021-04-03",
-            "value": 47412
+            "value": 47413
         },
         {
             "date": "2021-04-04",
-            "value": 47582
+            "value": 47583
         },
         {
             "date": "2021-04-05",
-            "value": 47778
+            "value": 47779
         },
         {
             "date": "2021-04-06",
-            "value": 48033
+            "value": 48034
         },
         {
             "date": "2021-04-07",
-            "value": 48233
+            "value": 48234
         },
         {
             "date": "2021-04-08",
-            "value": 48441
+            "value": 48442
         },
         {
             "date": "2021-04-09",
-            "value": 48697
+            "value": 48698
         },
         {
             "date": "2021-04-10",
-            "value": 48871
+            "value": 48872
         },
         {
             "date": "2021-04-11",
-            "value": 49039
+            "value": 49040
         },
         {
             "date": "2021-04-12",
-            "value": 49237
+            "value": 49238
         },
         {
             "date": "2021-04-13",
-            "value": 49424
+            "value": 49425
         },
         {
             "date": "2021-04-14",
-            "value": 49631
+            "value": 49632
         },
         {
             "date": "2021-04-15",
-            "value": 49830
+            "value": 49831
         },
         {
             "date": "2021-04-16",
-            "value": 50056
+            "value": 50057
         },
         {
             "date": "2021-04-17",
-            "value": 50223
+            "value": 50224
         },
         {
             "date": "2021-04-18",
-            "value": 50394
+            "value": 50395
         },
         {
             "date": "2021-04-19",
-            "value": 50674
+            "value": 50675
         },
         {
             "date": "2021-04-20",
-            "value": 50916
+            "value": 50917
         },
         {
             "date": "2021-04-21",
-            "value": 51148
+            "value": 51149
         },
         {
             "date": "2021-04-22",
-            "value": 51339
+            "value": 51340
         },
         {
             "date": "2021-04-23",
-            "value": 51555
+            "value": 51556
         },
         {
             "date": "2021-04-24",
-            "value": 51714
+            "value": 51715
         },
         {
             "date": "2021-04-25",
-            "value": 51900
+            "value": 51901
         },
         {
             "date": "2021-04-26",
-            "value": 52172
+            "value": 52173
         },
         {
             "date": "2021-04-27",
-            "value": 52316
+            "value": 52317
         },
         {
             "date": "2021-04-28",
-            "value": 52609
+            "value": 52610
         },
         {
             "date": "2021-04-29",
-            "value": 52830
+            "value": 52831
         },
         {
             "date": "2021-04-30",
-            "value": 53045
+            "value": 53046
         },
         {
             "date": "2021-05-01",
-            "value": 53195
+            "value": 53196
         },
         {
             "date": "2021-05-02",
-            "value": 53336
+            "value": 53337
         },
         {
             "date": "2021-05-03",
-            "value": 53568
+            "value": 53569
         },
         {
             "date": "2021-05-04",
-            "value": 53756
+            "value": 53757
         },
         {
             "date": "2021-05-05",
-            "value": 53914
+            "value": 53916
         },
         {
             "date": "2021-05-06",
-            "value": 54085
+            "value": 54087
         },
         {
             "date": "2021-05-07",
-            "value": 54274
+            "value": 54276
         },
         {
             "date": "2021-05-08",
-            "value": 54395
+            "value": 54397
         },
         {
             "date": "2021-05-09",
-            "value": 54529
+            "value": 54531
         },
         {
             "date": "2021-05-10",
-            "value": 54744
+            "value": 54746
         },
         {
             "date": "2021-05-11",
-            "value": 54785
+            "value": 54790
+        },
+        {
+            "date": "2021-05-12",
+            "value": 54790
         }
     ],
     "license": "\n    vermeld dat het artikel van www.stichting-nice.nl komt,\n    vermeld dat het artikel copyright 1996-2020 van Stichting NICE is,\n    vermeld een duidelijke en werkende link naar de juiste pagina op de website van Stichting NICE.\n",
