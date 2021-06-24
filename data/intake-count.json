@@ -1898,35 +1898,35 @@
         },
         {
             "date": "2021-06-15",
-            "value": 254
+            "value": 253
         },
         {
             "date": "2021-06-16",
-            "value": 244
+            "value": 243
         },
         {
             "date": "2021-06-17",
-            "value": 234
+            "value": 233
         },
         {
             "date": "2021-06-18",
-            "value": 223
+            "value": 222
         },
         {
             "date": "2021-06-19",
-            "value": 211
+            "value": 210
         },
         {
             "date": "2021-06-20",
-            "value": 203
-        },
-        {
-            "date": "2021-06-21",
             "value": 202
         },
         {
+            "date": "2021-06-21",
+            "value": 201
+        },
+        {
             "date": "2021-06-22",
-            "value": 194
+            "value": 193
         },
         {
             "date": "2021-06-23",
@@ -1934,7 +1934,7 @@
         },
         {
             "date": "2021-06-24",
-            "value": 170
+            "value": 169
         }
     ],
     "license": "\n    vermeld dat het artikel van www.stichting-nice.nl komt,\n    vermeld dat het artikel copyright 1996-2020 van Stichting NICE is,\n    vermeld een duidelijke en werkende link naar de juiste pagina op de website van Stichting NICE.\n",
