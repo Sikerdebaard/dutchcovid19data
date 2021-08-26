@@ -630,15 +630,15 @@
         },
         {
             "date": "2020-08-02",
-            "value": 106
+            "value": 107
         },
         {
             "date": "2020-08-03",
-            "value": 116
+            "value": 117
         },
         {
             "date": "2020-08-04",
-            "value": 109
+            "value": 110
         },
         {
             "date": "2020-08-05",
@@ -658,15 +658,15 @@
         },
         {
             "date": "2020-08-09",
-            "value": 129
+            "value": 130
         },
         {
             "date": "2020-08-10",
-            "value": 138
+            "value": 139
         },
         {
             "date": "2020-08-11",
-            "value": 159
+            "value": 160
         },
         {
             "date": "2020-08-12",
@@ -678,55 +678,55 @@
         },
         {
             "date": "2020-08-14",
-            "value": 159
+            "value": 158
         },
         {
             "date": "2020-08-15",
-            "value": 155
+            "value": 154
         },
         {
             "date": "2020-08-16",
-            "value": 163
-        },
-        {
-            "date": "2020-08-17",
-            "value": 180
-        },
-        {
-            "date": "2020-08-18",
-            "value": 175
-        },
-        {
-            "date": "2020-08-19",
-            "value": 178
-        },
-        {
-            "date": "2020-08-20",
-            "value": 188
-        },
-        {
-            "date": "2020-08-21",
-            "value": 181
-        },
-        {
-            "date": "2020-08-22",
             "value": 161
         },
         {
+            "date": "2020-08-17",
+            "value": 178
+        },
+        {
+            "date": "2020-08-18",
+            "value": 173
+        },
+        {
+            "date": "2020-08-19",
+            "value": 176
+        },
+        {
+            "date": "2020-08-20",
+            "value": 186
+        },
+        {
+            "date": "2020-08-21",
+            "value": 180
+        },
+        {
+            "date": "2020-08-22",
+            "value": 160
+        },
+        {
             "date": "2020-08-23",
-            "value": 162
+            "value": 161
         },
         {
             "date": "2020-08-24",
-            "value": 166
+            "value": 165
         },
         {
             "date": "2020-08-25",
-            "value": 172
+            "value": 171
         },
         {
             "date": "2020-08-26",
-            "value": 162
+            "value": 161
         },
         {
             "date": "2020-08-27",
@@ -742,7 +742,7 @@
         },
         {
             "date": "2020-08-30",
-            "value": 132
+            "value": 133
         },
         {
             "date": "2020-08-31",
@@ -2150,43 +2150,43 @@
         },
         {
             "date": "2021-08-17",
-            "value": 536
+            "value": 537
         },
         {
             "date": "2021-08-18",
-            "value": 522
+            "value": 523
         },
         {
             "date": "2021-08-19",
-            "value": 515
+            "value": 516
         },
         {
             "date": "2021-08-20",
-            "value": 507
+            "value": 508
         },
         {
             "date": "2021-08-21",
-            "value": 471
+            "value": 472
         },
         {
             "date": "2021-08-22",
-            "value": 489
+            "value": 491
         },
         {
             "date": "2021-08-23",
-            "value": 514
+            "value": 518
         },
         {
             "date": "2021-08-24",
-            "value": 503
+            "value": 507
         },
         {
             "date": "2021-08-25",
-            "value": 485
+            "value": 491
         },
         {
             "date": "2021-08-26",
-            "value": 460
+            "value": 459
         }
     ],
     "license": "\n    vermeld dat het artikel van www.stichting-nice.nl komt,\n    vermeld dat het artikel copyright 1996-2020 van Stichting NICE is,\n    vermeld een duidelijke en werkende link naar de juiste pagina op de website van Stichting NICE.\n",
