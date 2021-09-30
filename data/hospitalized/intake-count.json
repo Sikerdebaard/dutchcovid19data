@@ -1838,103 +1838,103 @@
         },
         {
             "date": "2021-05-31",
-            "value": 711
+            "value": 713
         },
         {
             "date": "2021-06-01",
-            "value": 658
+            "value": 661
         },
         {
             "date": "2021-06-02",
-            "value": 613
+            "value": 618
         },
         {
             "date": "2021-06-03",
-            "value": 574
-        },
-        {
-            "date": "2021-06-04",
             "value": 580
         },
         {
+            "date": "2021-06-04",
+            "value": 585
+        },
+        {
             "date": "2021-06-05",
-            "value": 537
+            "value": 543
         },
         {
             "date": "2021-06-06",
-            "value": 532
+            "value": 537
         },
         {
             "date": "2021-06-07",
-            "value": 542
+            "value": 546
         },
         {
             "date": "2021-06-08",
-            "value": 509
+            "value": 514
         },
         {
             "date": "2021-06-09",
-            "value": 455
+            "value": 458
         },
         {
             "date": "2021-06-10",
-            "value": 425
+            "value": 428
         },
         {
             "date": "2021-06-11",
-            "value": 397
+            "value": 400
         },
         {
             "date": "2021-06-12",
-            "value": 350
-        },
-        {
-            "date": "2021-06-13",
             "value": 351
         },
         {
+            "date": "2021-06-13",
+            "value": 352
+        },
+        {
             "date": "2021-06-14",
-            "value": 374
+            "value": 375
         },
         {
             "date": "2021-06-15",
-            "value": 330
+            "value": 331
         },
         {
             "date": "2021-06-16",
-            "value": 310
+            "value": 313
         },
         {
             "date": "2021-06-17",
-            "value": 307
+            "value": 310
         },
         {
             "date": "2021-06-18",
-            "value": 300
+            "value": 303
         },
         {
             "date": "2021-06-19",
-            "value": 272
+            "value": 275
         },
         {
             "date": "2021-06-20",
-            "value": 270
+            "value": 272
         },
         {
             "date": "2021-06-21",
-            "value": 271
+            "value": 273
         },
         {
             "date": "2021-06-22",
-            "value": 242
+            "value": 244
         },
         {
             "date": "2021-06-23",
-            "value": 233
+            "value": 235
         },
         {
             "date": "2021-06-24",
-            "value": 211
+            "value": 213
         },
         {
             "date": "2021-06-25",
@@ -2290,43 +2290,43 @@
         },
         {
             "date": "2021-09-21",
-            "value": 403
+            "value": 404
         },
         {
             "date": "2021-09-22",
-            "value": 383
+            "value": 384
         },
         {
             "date": "2021-09-23",
-            "value": 372
+            "value": 373
         },
         {
             "date": "2021-09-24",
-            "value": 356
+            "value": 357
         },
         {
             "date": "2021-09-25",
-            "value": 335
+            "value": 337
         },
         {
             "date": "2021-09-26",
-            "value": 342
+            "value": 345
         },
         {
             "date": "2021-09-27",
-            "value": 361
+            "value": 365
         },
         {
             "date": "2021-09-28",
-            "value": 361
+            "value": 363
         },
         {
             "date": "2021-09-29",
-            "value": 339
+            "value": 340
         },
         {
             "date": "2021-09-30",
-            "value": 332
+            "value": 331
         }
     ],
     "license": "\n    vermeld dat het artikel van www.stichting-nice.nl komt,\n    vermeld dat het artikel copyright 1996-2020 van Stichting NICE is,\n    vermeld een duidelijke en werkende link naar de juiste pagina op de website van Stichting NICE.\n",
