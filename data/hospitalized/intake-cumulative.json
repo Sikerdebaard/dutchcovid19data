@@ -2658,71 +2658,75 @@
         },
         {
             "date": "2021-12-22",
-            "value": 75359
+            "value": 75360
         },
         {
             "date": "2021-12-23",
-            "value": 75476
+            "value": 75477
         },
         {
             "date": "2021-12-24",
-            "value": 75622
+            "value": 75623
         },
         {
             "date": "2021-12-25",
-            "value": 75714
+            "value": 75715
         },
         {
             "date": "2021-12-26",
-            "value": 75813
+            "value": 75814
         },
         {
             "date": "2021-12-27",
-            "value": 75992
+            "value": 75994
         },
         {
             "date": "2021-12-28",
-            "value": 76161
+            "value": 76163
         },
         {
             "date": "2021-12-29",
-            "value": 76293
+            "value": 76295
         },
         {
             "date": "2021-12-30",
-            "value": 76420
+            "value": 76422
         },
         {
             "date": "2021-12-31",
-            "value": 76538
+            "value": 76540
         },
         {
             "date": "2022-01-01",
-            "value": 76628
+            "value": 76630
         },
         {
             "date": "2022-01-02",
-            "value": 76717
+            "value": 76719
         },
         {
             "date": "2022-01-03",
-            "value": 76850
+            "value": 76852
         },
         {
             "date": "2022-01-04",
-            "value": 76984
+            "value": 76986
         },
         {
             "date": "2022-01-05",
-            "value": 77084
+            "value": 77085
         },
         {
             "date": "2022-01-06",
-            "value": 77168
+            "value": 77170
         },
         {
             "date": "2022-01-07",
-            "value": 77190
+            "value": 77195
+        },
+        {
+            "date": "2022-01-08",
+            "value": 77195
         }
     ],
     "license": "\n    vermeld dat het artikel van www.stichting-nice.nl komt,\n    vermeld dat het artikel copyright 1996-2020 van Stichting NICE is,\n    vermeld een duidelijke en werkende link naar de juiste pagina op de website van Stichting NICE.\n",
