@@ -90,7 +90,7 @@
         },
         {
             "date": "2020-03-20",
-            "value": 1166
+            "value": 1165
         },
         {
             "date": "2020-03-21",
@@ -1210,15 +1210,15 @@
         },
         {
             "date": "2020-12-25",
-            "value": 1944
+            "value": 1945
         },
         {
             "date": "2020-12-26",
-            "value": 1984
+            "value": 1985
         },
         {
             "date": "2020-12-27",
-            "value": 2074
+            "value": 2075
         },
         {
             "date": "2020-12-28",
@@ -2466,7 +2466,7 @@
         },
         {
             "date": "2021-11-04",
-            "value": 1387
+            "value": 1386
         },
         {
             "date": "2021-11-05",
@@ -2586,23 +2586,23 @@
         },
         {
             "date": "2021-12-04",
-            "value": 2264
+            "value": 2263
         },
         {
             "date": "2021-12-05",
-            "value": 2265
+            "value": 2264
         },
         {
             "date": "2021-12-06",
-            "value": 2410
+            "value": 2409
         },
         {
             "date": "2021-12-07",
-            "value": 2401
+            "value": 2400
         },
         {
             "date": "2021-12-08",
-            "value": 2404
+            "value": 2403
         },
         {
             "date": "2021-12-09",
@@ -2850,7 +2850,7 @@
         },
         {
             "date": "2022-02-08",
-            "value": 1734
+            "value": 1733
         },
         {
             "date": "2022-02-09",
@@ -3022,11 +3022,11 @@
         },
         {
             "date": "2022-03-23",
-            "value": 1942
+            "value": 1944
         },
         {
             "date": "2022-03-24",
-            "value": 1871
+            "value": 1870
         }
     ],
     "license": "\n    vermeld dat het artikel van www.stichting-nice.nl komt,\n    vermeld dat het artikel copyright 1996-2020 van Stichting NICE is,\n    vermeld een duidelijke en werkende link naar de juiste pagina op de website van Stichting NICE.\n",
