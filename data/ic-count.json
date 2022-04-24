@@ -2570,15 +2570,15 @@
         },
         {
             "date": "2021-11-30",
-            "value": 76
+            "value": 77
         },
         {
             "date": "2021-12-01",
-            "value": 76
+            "value": 77
         },
         {
             "date": "2021-12-02",
-            "value": 77
+            "value": 78
         },
         {
             "date": "2021-12-03",
@@ -2890,11 +2890,11 @@
         },
         {
             "date": "2022-02-18",
-            "value": 68
+            "value": 69
         },
         {
             "date": "2022-02-19",
-            "value": 69
+            "value": 70
         },
         {
             "date": "2022-02-20",
@@ -3114,19 +3114,19 @@
         },
         {
             "date": "2022-04-15",
-            "value": 52
+            "value": 51
         },
         {
             "date": "2022-04-16",
-            "value": 50
+            "value": 49
         },
         {
             "date": "2022-04-17",
-            "value": 52
+            "value": 51
         },
         {
             "date": "2022-04-18",
-            "value": 54
+            "value": 53
         },
         {
             "date": "2022-04-19",
@@ -3138,23 +3138,23 @@
         },
         {
             "date": "2022-04-21",
-            "value": 51
+            "value": 50
         },
         {
             "date": "2022-04-22",
-            "value": 51
+            "value": 50
         },
         {
             "date": "2022-04-23",
-            "value": 49
-        },
-        {
-            "date": "2022-04-24",
             "value": 48
         },
         {
+            "date": "2022-04-24",
+            "value": 47
+        },
+        {
             "date": "2022-04-25",
-            "value": 0
+            "value": 47
         }
     ],
     "license": "\n    vermeld dat het artikel van www.stichting-nice.nl komt,\n    vermeld dat het artikel copyright 1996-2020 van Stichting NICE is,\n    vermeld een duidelijke en werkende link naar de juiste pagina op de website van Stichting NICE.\n",
