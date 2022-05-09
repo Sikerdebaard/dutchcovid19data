@@ -90,7 +90,7 @@
         },
         {
             "date": "2020-03-20",
-            "value": 1166
+            "value": 1165
         },
         {
             "date": "2020-03-21",
@@ -2806,35 +2806,35 @@
         },
         {
             "date": "2022-01-28",
-            "value": 1392
+            "value": 1393
         },
         {
             "date": "2022-01-29",
-            "value": 1362
+            "value": 1363
         },
         {
             "date": "2022-01-30",
-            "value": 1410
+            "value": 1411
         },
         {
             "date": "2022-01-31",
-            "value": 1559
+            "value": 1560
         },
         {
             "date": "2022-02-01",
-            "value": 1627
+            "value": 1628
         },
         {
             "date": "2022-02-02",
-            "value": 1648
+            "value": 1649
         },
         {
             "date": "2022-02-03",
-            "value": 1633
+            "value": 1634
         },
         {
             "date": "2022-02-04",
-            "value": 1666
+            "value": 1667
         },
         {
             "date": "2022-02-05",
@@ -2902,51 +2902,51 @@
         },
         {
             "date": "2022-02-21",
-            "value": 1836
+            "value": 1837
         },
         {
             "date": "2022-02-22",
-            "value": 1833
+            "value": 1834
         },
         {
             "date": "2022-02-23",
-            "value": 1774
+            "value": 1775
         },
         {
             "date": "2022-02-24",
-            "value": 1713
+            "value": 1714
         },
         {
             "date": "2022-02-25",
-            "value": 1701
+            "value": 1702
         },
         {
             "date": "2022-02-26",
-            "value": 1582
+            "value": 1583
         },
         {
             "date": "2022-02-27",
-            "value": 1567
+            "value": 1568
         },
         {
             "date": "2022-02-28",
-            "value": 1710
+            "value": 1711
         },
         {
             "date": "2022-03-01",
-            "value": 1739
+            "value": 1740
         },
         {
             "date": "2022-03-02",
-            "value": 1789
+            "value": 1790
         },
         {
             "date": "2022-03-03",
-            "value": 1802
+            "value": 1803
         },
         {
             "date": "2022-03-04",
-            "value": 1812
+            "value": 1813
         },
         {
             "date": "2022-03-05",
@@ -2958,19 +2958,19 @@
         },
         {
             "date": "2022-03-07",
-            "value": 2020
+            "value": 2021
         },
         {
             "date": "2022-03-08",
-            "value": 2076
+            "value": 2077
         },
         {
             "date": "2022-03-09",
-            "value": 2070
+            "value": 2071
         },
         {
             "date": "2022-03-10",
-            "value": 2125
+            "value": 2126
         },
         {
             "date": "2022-03-11",
@@ -3030,19 +3030,19 @@
         },
         {
             "date": "2022-03-25",
-            "value": 2318
+            "value": 2319
         },
         {
             "date": "2022-03-26",
-            "value": 2145
+            "value": 2146
         },
         {
             "date": "2022-03-27",
-            "value": 2154
+            "value": 2155
         },
         {
             "date": "2022-03-28",
-            "value": 2342
+            "value": 2343
         },
         {
             "date": "2022-03-29",
@@ -3211,6 +3211,10 @@
         {
             "date": "2022-05-09",
             "value": 950
+        },
+        {
+            "date": "2022-05-10",
+            "value": 944
         }
     ],
     "license": "\n    vermeld dat het artikel van www.stichting-nice.nl komt,\n    vermeld dat het artikel copyright 1996-2020 van Stichting NICE is,\n    vermeld een duidelijke en werkende link naar de juiste pagina op de website van Stichting NICE.\n",
