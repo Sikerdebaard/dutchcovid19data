@@ -1746,7 +1746,7 @@
         },
         {
             "date": "2021-05-08",
-            "value": 1509
+            "value": 1508
         },
         {
             "date": "2021-05-09",
@@ -1802,31 +1802,31 @@
         },
         {
             "date": "2021-05-22",
-            "value": 1007
+            "value": 1006
         },
         {
             "date": "2021-05-23",
-            "value": 974
+            "value": 973
         },
         {
             "date": "2021-05-24",
-            "value": 968
+            "value": 967
         },
         {
             "date": "2021-05-25",
-            "value": 995
+            "value": 994
         },
         {
             "date": "2021-05-26",
-            "value": 925
+            "value": 924
         },
         {
             "date": "2021-05-27",
-            "value": 856
+            "value": 855
         },
         {
             "date": "2021-05-28",
-            "value": 817
+            "value": 816
         },
         {
             "date": "2021-05-29",
@@ -2054,7 +2054,7 @@
         },
         {
             "date": "2021-07-24",
-            "value": 504
+            "value": 505
         },
         {
             "date": "2021-07-25",
@@ -2850,7 +2850,7 @@
         },
         {
             "date": "2022-02-08",
-            "value": 1748
+            "value": 1749
         },
         {
             "date": "2022-02-09",
@@ -3434,87 +3434,91 @@
         },
         {
             "date": "2022-07-04",
-            "value": 1325
+            "value": 1326
         },
         {
             "date": "2022-07-05",
-            "value": 1338
+            "value": 1339
         },
         {
             "date": "2022-07-06",
-            "value": 1318
+            "value": 1319
         },
         {
             "date": "2022-07-07",
-            "value": 1322
+            "value": 1323
         },
         {
             "date": "2022-07-08",
-            "value": 1315
+            "value": 1316
         },
         {
             "date": "2022-07-09",
-            "value": 1274
+            "value": 1275
         },
         {
             "date": "2022-07-10",
-            "value": 1335
+            "value": 1336
         },
         {
             "date": "2022-07-11",
-            "value": 1448
+            "value": 1449
         },
         {
             "date": "2022-07-12",
-            "value": 1457
+            "value": 1458
         },
         {
             "date": "2022-07-13",
-            "value": 1435
+            "value": 1436
         },
         {
             "date": "2022-07-14",
-            "value": 1442
+            "value": 1445
         },
         {
             "date": "2022-07-15",
-            "value": 1407
+            "value": 1410
         },
         {
             "date": "2022-07-16",
-            "value": 1344
+            "value": 1347
         },
         {
             "date": "2022-07-17",
-            "value": 1367
+            "value": 1370
         },
         {
             "date": "2022-07-18",
-            "value": 1438
+            "value": 1442
         },
         {
             "date": "2022-07-19",
-            "value": 1423
+            "value": 1428
         },
         {
             "date": "2022-07-20",
-            "value": 1427
+            "value": 1435
         },
         {
             "date": "2022-07-21",
-            "value": 1401
+            "value": 1409
         },
         {
             "date": "2022-07-22",
-            "value": 1330
+            "value": 1337
         },
         {
             "date": "2022-07-23",
-            "value": 1272
+            "value": 1277
         },
         {
             "date": "2022-07-24",
-            "value": 1257
+            "value": 1264
+        },
+        {
+            "date": "2022-07-25",
+            "value": 1261
         }
     ],
     "license": "\n    vermeld dat het artikel van www.stichting-nice.nl komt,\n    vermeld dat het artikel copyright 1996-2020 van Stichting NICE is,\n    vermeld een duidelijke en werkende link naar de juiste pagina op de website van Stichting NICE.\n",
