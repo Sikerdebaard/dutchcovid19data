@@ -90,7 +90,7 @@
         },
         {
             "date": "2020-03-20",
-            "value": 421
+            "value": 422
         },
         {
             "date": "2020-03-21",
@@ -3646,55 +3646,55 @@
         },
         {
             "date": "2022-08-26",
-            "value": 18705
+            "value": 18706
         },
         {
             "date": "2022-08-27",
-            "value": 18710
+            "value": 18711
         },
         {
             "date": "2022-08-28",
-            "value": 18713
+            "value": 18714
         },
         {
             "date": "2022-08-29",
-            "value": 18717
+            "value": 18718
         },
         {
             "date": "2022-08-30",
-            "value": 18720
+            "value": 18721
         },
         {
             "date": "2022-08-31",
-            "value": 18723
-        },
-        {
-            "date": "2022-09-01",
             "value": 18724
         },
         {
-            "date": "2022-09-02",
+            "date": "2022-09-01",
             "value": 18725
         },
         {
-            "date": "2022-09-03",
+            "date": "2022-09-02",
             "value": 18726
         },
         {
-            "date": "2022-09-04",
-            "value": 18729
+            "date": "2022-09-03",
+            "value": 18727
         },
         {
-            "date": "2022-09-05",
+            "date": "2022-09-04",
             "value": 18730
         },
         {
+            "date": "2022-09-05",
+            "value": 18731
+        },
+        {
             "date": "2022-09-06",
-            "value": 18732
+            "value": 18733
         },
         {
             "date": "2022-09-07",
-            "value": 18732
+            "value": 18733
         }
     ],
     "license": "\n    vermeld dat het artikel van www.stichting-nice.nl komt,\n    vermeld dat het artikel copyright 1996-2020 van Stichting NICE is,\n    vermeld een duidelijke en werkende link naar de juiste pagina op de website van Stichting NICE.\n",
