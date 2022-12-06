@@ -1210,15 +1210,15 @@
         },
         {
             "date": "2020-12-25",
-            "value": 1944
+            "value": 1943
         },
         {
             "date": "2020-12-26",
-            "value": 1983
+            "value": 1982
         },
         {
             "date": "2020-12-27",
-            "value": 2074
+            "value": 2073
         },
         {
             "date": "2020-12-28",
@@ -2950,11 +2950,11 @@
         },
         {
             "date": "2022-03-05",
-            "value": 1717
+            "value": 1716
         },
         {
             "date": "2022-03-06",
-            "value": 1809
+            "value": 1808
         },
         {
             "date": "2022-03-07",
@@ -3662,11 +3662,11 @@
         },
         {
             "date": "2022-08-30",
-            "value": 900
+            "value": 901
         },
         {
             "date": "2022-08-31",
-            "value": 887
+            "value": 888
         },
         {
             "date": "2022-09-01",
@@ -3974,87 +3974,87 @@
         },
         {
             "date": "2022-11-16",
-            "value": 1133
+            "value": 1134
         },
         {
             "date": "2022-11-17",
-            "value": 1135
+            "value": 1136
         },
         {
             "date": "2022-11-18",
-            "value": 1123
+            "value": 1124
         },
         {
             "date": "2022-11-19",
-            "value": 1077
-        },
-        {
-            "date": "2022-11-20",
-            "value": 1064
-        },
-        {
-            "date": "2022-11-21",
-            "value": 1106
-        },
-        {
-            "date": "2022-11-22",
-            "value": 1101
-        },
-        {
-            "date": "2022-11-23",
-            "value": 1089
-        },
-        {
-            "date": "2022-11-24",
-            "value": 1073
-        },
-        {
-            "date": "2022-11-25",
-            "value": 1063
-        },
-        {
-            "date": "2022-11-26",
-            "value": 1020
-        },
-        {
-            "date": "2022-11-27",
-            "value": 1041
-        },
-        {
-            "date": "2022-11-28",
-            "value": 1079
-        },
-        {
-            "date": "2022-11-29",
             "value": 1078
         },
         {
+            "date": "2022-11-20",
+            "value": 1065
+        },
+        {
+            "date": "2022-11-21",
+            "value": 1107
+        },
+        {
+            "date": "2022-11-22",
+            "value": 1102
+        },
+        {
+            "date": "2022-11-23",
+            "value": 1090
+        },
+        {
+            "date": "2022-11-24",
+            "value": 1074
+        },
+        {
+            "date": "2022-11-25",
+            "value": 1064
+        },
+        {
+            "date": "2022-11-26",
+            "value": 1021
+        },
+        {
+            "date": "2022-11-27",
+            "value": 1042
+        },
+        {
+            "date": "2022-11-28",
+            "value": 1081
+        },
+        {
+            "date": "2022-11-29",
+            "value": 1081
+        },
+        {
             "date": "2022-11-30",
-            "value": 1067
+            "value": 1070
         },
         {
             "date": "2022-12-01",
-            "value": 1059
+            "value": 1062
         },
         {
             "date": "2022-12-02",
-            "value": 1043
+            "value": 1046
         },
         {
             "date": "2022-12-03",
-            "value": 1013
+            "value": 1017
         },
         {
             "date": "2022-12-04",
-            "value": 1024
+            "value": 1028
         },
         {
             "date": "2022-12-05",
-            "value": 1034
+            "value": 1040
         },
         {
             "date": "2022-12-06",
-            "value": 997
+            "value": 1002
         }
     ],
     "license": "\n    vermeld dat het artikel van www.stichting-nice.nl komt,\n    vermeld dat het artikel copyright 1996-2020 van Stichting NICE is,\n    vermeld een duidelijke en werkende link naar de juiste pagina op de website van Stichting NICE.\n",
