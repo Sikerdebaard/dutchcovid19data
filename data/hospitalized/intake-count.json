@@ -90,7 +90,7 @@
         },
         {
             "date": "2020-03-20",
-            "value": 1166
+            "value": 1165
         },
         {
             "date": "2020-03-21",
@@ -1210,15 +1210,15 @@
         },
         {
             "date": "2020-12-25",
-            "value": 1943
+            "value": 1944
         },
         {
             "date": "2020-12-26",
-            "value": 1982
+            "value": 1983
         },
         {
             "date": "2020-12-27",
-            "value": 2073
+            "value": 2074
         },
         {
             "date": "2020-12-28",
@@ -1278,51 +1278,51 @@
         },
         {
             "date": "2021-01-11",
-            "value": 2009
+            "value": 2010
         },
         {
             "date": "2021-01-12",
-            "value": 1944
+            "value": 1945
         },
         {
             "date": "2021-01-13",
-            "value": 1887
+            "value": 1888
         },
         {
             "date": "2021-01-14",
-            "value": 1825
+            "value": 1826
         },
         {
             "date": "2021-01-15",
-            "value": 1807
+            "value": 1808
         },
         {
             "date": "2021-01-16",
-            "value": 1680
+            "value": 1681
         },
         {
             "date": "2021-01-17",
-            "value": 1635
+            "value": 1636
         },
         {
             "date": "2021-01-18",
-            "value": 1761
+            "value": 1762
         },
         {
             "date": "2021-01-19",
-            "value": 1748
+            "value": 1749
         },
         {
             "date": "2021-01-20",
-            "value": 1673
-        },
-        {
-            "date": "2021-01-21",
             "value": 1674
         },
         {
+            "date": "2021-01-21",
+            "value": 1675
+        },
+        {
             "date": "2021-01-22",
-            "value": 1653
+            "value": 1654
         },
         {
             "date": "2021-01-23",
@@ -1746,7 +1746,7 @@
         },
         {
             "date": "2021-05-08",
-            "value": 1509
+            "value": 1510
         },
         {
             "date": "2021-05-09",
@@ -2806,35 +2806,35 @@
         },
         {
             "date": "2022-01-28",
-            "value": 1372
+            "value": 1373
         },
         {
             "date": "2022-01-29",
-            "value": 1342
+            "value": 1343
         },
         {
             "date": "2022-01-30",
-            "value": 1388
+            "value": 1389
         },
         {
             "date": "2022-01-31",
-            "value": 1544
+            "value": 1545
         },
         {
             "date": "2022-02-01",
-            "value": 1613
+            "value": 1614
         },
         {
             "date": "2022-02-02",
-            "value": 1633
+            "value": 1634
         },
         {
             "date": "2022-02-03",
-            "value": 1616
+            "value": 1617
         },
         {
             "date": "2022-02-04",
-            "value": 1653
+            "value": 1654
         },
         {
             "date": "2022-02-05",
@@ -3662,11 +3662,11 @@
         },
         {
             "date": "2022-08-30",
-            "value": 804
+            "value": 803
         },
         {
             "date": "2022-08-31",
-            "value": 784
+            "value": 783
         },
         {
             "date": "2022-09-01",
@@ -4030,11 +4030,11 @@
         },
         {
             "date": "2022-11-30",
-            "value": 1017
+            "value": 1018
         },
         {
             "date": "2022-12-01",
-            "value": 1021
+            "value": 1022
         },
         {
             "date": "2022-12-02",
@@ -4118,91 +4118,91 @@
         },
         {
             "date": "2022-12-22",
-            "value": 1293
+            "value": 1294
         },
         {
             "date": "2022-12-23",
-            "value": 1324
+            "value": 1325
         },
         {
             "date": "2022-12-24",
-            "value": 1269
+            "value": 1270
         },
         {
             "date": "2022-12-25",
-            "value": 1271
+            "value": 1272
         },
         {
             "date": "2022-12-26",
-            "value": 1332
+            "value": 1333
         },
         {
             "date": "2022-12-27",
-            "value": 1423
+            "value": 1425
         },
         {
             "date": "2022-12-28",
-            "value": 1436
+            "value": 1438
         },
         {
             "date": "2022-12-29",
-            "value": 1416
+            "value": 1418
         },
         {
             "date": "2022-12-30",
-            "value": 1404
+            "value": 1406
         },
         {
             "date": "2022-12-31",
-            "value": 1343
+            "value": 1345
         },
         {
             "date": "2023-01-01",
-            "value": 1352
+            "value": 1354
         },
         {
             "date": "2023-01-02",
-            "value": 1417
+            "value": 1418
         },
         {
             "date": "2023-01-03",
-            "value": 1412
+            "value": 1413
         },
         {
             "date": "2023-01-04",
-            "value": 1363
+            "value": 1364
         },
         {
             "date": "2023-01-05",
-            "value": 1326
+            "value": 1327
         },
         {
             "date": "2023-01-06",
-            "value": 1258
+            "value": 1259
         },
         {
             "date": "2023-01-07",
-            "value": 1189
+            "value": 1190
         },
         {
             "date": "2023-01-08",
-            "value": 1205
+            "value": 1206
         },
         {
             "date": "2023-01-09",
-            "value": 1236
+            "value": 1243
         },
         {
             "date": "2023-01-10",
-            "value": 1195
+            "value": 1201
         },
         {
             "date": "2023-01-11",
-            "value": 1121
+            "value": 1128
         },
         {
             "date": "2023-01-12",
-            "value": 1095
+            "value": 1092
         }
     ],
     "license": "\n    vermeld dat het artikel van www.stichting-nice.nl komt,\n    vermeld dat het artikel copyright 1996-2020 van Stichting NICE is,\n    vermeld een duidelijke en werkende link naar de juiste pagina op de website van Stichting NICE.\n",
