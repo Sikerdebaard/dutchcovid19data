@@ -1,8 +1,10 @@
-# Dutch covid-19 ICU data
-Mirror of stichting-NICE data
+# NICE Mirror 
+Mirror of stichting-NICE data in machine readable format
 
 Folders:
-* data/ ICU data from https://www.stichting-nice.nl/covid-19-op-de-ic.jsp
-* data/hospitalized Hospital data from https://www.stichting-nice.nl/covid-19-op-de-zkh.jsp
+* data/icu ICU data from https://www.stichting-nice.nl/covid-19-op-de-ic.jsp
+* data/clinic Clinic data from https://www.stichting-nice.nl/covid-19-op-de-zkh.jsp
+* data/hist/icu Historical ICU data from https://www.stichting-nice.nl/covid-19-op-de-ic-history.jsp
+* data/hist/clinic Historical clinic data from https://www.stichting-nice.nl/covid-19-op-de-zkh-history.jsp
 
-You can find the data as json and excel-file in the data folder. Data is updated once an hour.
+Data is in json, csv and excel format. Data is updated once an hour.
