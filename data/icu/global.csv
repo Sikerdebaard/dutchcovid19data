@@ -1,6 +1,6 @@
 ,values
-count,964
-countDistinctHospno,6
-countDied,256
-countCurrent,6
+count,985
+countDistinctHospno,10
+countDied,261
+countCurrent,11
 countCurrentSuspected,0
